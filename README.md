@@ -40,3 +40,8 @@
           }
       ]
       ```
+        - **Cancel Transfers**: `GET /api/transfers/cancel/{transferId}`
+    - Response:
+    
+          204
+    
